@@ -2,10 +2,9 @@ import 'dart:convert';
 import 'dart:math';
 import 'dart:typed_data';
 
-import 'package:archive_streaming_fork/src/util/output_memory_stream.dart';
-
 import '../../util/file_content.dart';
 import '../../util/input_stream.dart';
+import '../../util/output_memory_stream.dart';
 import '../../util/output_stream.dart';
 
 /*  File Header (512 bytes)

@@ -1,5 +1,5 @@
 // ignore_for_file: avoid_print
-import 'package:archive/archive.dart';
+import 'package:archive_streaming_fork/archive.dart';
 import 'package:http/http.dart' as http;
 import 'package:web/web.dart';
 

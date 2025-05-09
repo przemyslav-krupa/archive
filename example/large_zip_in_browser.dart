@@ -4,7 +4,7 @@ import 'dart:js_interop_unsafe';
 import 'dart:math' as math;
 import 'dart:typed_data';
 
-import 'package:archive/archive.dart';
+import 'package:archive_streaming_fork/archive.dart';
 import 'package:web/web.dart' as web;
 
 /// Sample code showing how a large zip file can be extracted and compressed

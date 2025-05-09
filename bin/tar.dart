@@ -1,6 +1,6 @@
 // ignore_for_file: avoid_print
 import 'dart:io';
-import 'package:archive/archive_io.dart';
+import 'package:archive_streaming_fork/archive_io.dart';
 
 // tar --list <file>
 // tar --extract <file> <dest>

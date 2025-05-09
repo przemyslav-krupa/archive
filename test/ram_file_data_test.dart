@@ -2,7 +2,7 @@
 
 import 'dart:math' as math;
 import 'dart:typed_data';
-import 'package:archive/src/util/ram_file_handle.dart';
+import 'package:archive_streaming_fork/src/util/ram_file_handle.dart';
 import 'package:test/test.dart';
 
 import '_test_util.dart';

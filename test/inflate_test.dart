@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:typed_data';
-import 'package:archive/archive.dart';
+import 'package:archive_streaming_fork/archive.dart';
 import 'package:path/path.dart' as p;
 import 'package:test/test.dart';
 

@@ -1,4 +1,4 @@
-name: archive
+name: archive_streaming_fork
 version: 4.0.7
 description: >-
   Provides encoders and decoders for various archive and compression formats
